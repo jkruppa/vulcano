@@ -1,7 +1,7 @@
 library(shiny)
 
 shinyUI(fluidPage(
-  titlePanel("Visualisation of different normalization methods"),
+  titlePanel("Visualisation of the vulcano plot"),
   sidebarLayout(
       ## sidebar panel
       sidebarPanel(
