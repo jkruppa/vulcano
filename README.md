@@ -2,7 +2,7 @@
 
 This is an example application for Shiny.
 
-![alt tag](https://raw.githubusercontent.com/jkruppa/vulcano/vulcano.png)
+![alt tag](https://github.com/jkruppa/vulcano/vulcano.png)
 
 ## Dependencies
 The following R packages are needed for the Shiny app:
