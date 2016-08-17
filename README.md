@@ -1,7 +1,5 @@
 # Visualisation of the vulcano plot
 
-This is an example application for Shiny.
-
 ![Screenshot](vulcano.png)
 
 ## Dependencies
